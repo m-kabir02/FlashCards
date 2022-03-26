@@ -1,6 +1,28 @@
 # FlashCards
 
-# Lab 4 With Optionals
+# Lab 3 With Deleting Flashcard Optional
+
+# App Description
+  This app is a studying app that allows users to create flashcards and toggle between the question and answer. There are also selectable multiple choice buttons to help users study and improve memory. Users can input new flashcards and access previously saved flashcards. 
+
+# App Walk-through
+
+<img src="https://i.imgur.com/JzVRI1e.gif" width=200><br>
+
+
+# Required
+- [x] User can browse through multiple flashcards
+- [x] User can re-open the app and see previously created flashcards
+- [x] Push code to GitHub
+
+
+# Optional
+- [x] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
+
+
+# Lab 2 With Optionals
 
 # App Description
 This app is a flashcard studying app that allows users to use a button to toggle between the question and answer and also tap the flashcard to go back to the question. There are also selectable multiple choice buttons to help users study and improve memory. Now users will be allowed to input new questions and answers through the Creation Screen by pressing the plus button and entering the questions and answers into the text fields.
@@ -23,7 +45,7 @@ This app is a flashcard studying app that allows users to use a button to toggle
 - [x] User can edit existing flashcard
 - [x] User can add multiple choice answers in the creation screen
 
-# Lab 4
+# Lab 2
 
 # App Description
 This app is a flashcard studying app that allows users to use a button to toggle between the question and answer and also tap the flashcard to go back to the question. There are also selectable multiple choice buttons to help users study and improve memory. Now users will be allowed to input new questions and answers through the Creation Screen by pressing the plus button and entering the questions and answers into the text fields.
@@ -47,7 +69,7 @@ This app is a flashcard studying app that allows users to use a button to toggle
 - [ ] User can edit existing flashcard
 - [ ] User can add multiple choice answers in the creation screen
 
-# Lab 2 (Updated With Optionals)
+# Lab 1 (Updated With Optionals)
 
 ## App Description
 This app is a flashcard studying app that allows users to use a button to toggle between the question and answer and also tap the flashcard to go back to the question. There are also selectable multiple choice buttons to help users study and improve memory.
@@ -70,7 +92,7 @@ This app is a flashcard studying app that allows users to use a button to toggle
 
 
 
-# Lab 2
+# Lab 1
 
 ## App Description
 This app is a flashcard studying app that has a question label and an answer label. When the question label is tapped, the answer label appears.

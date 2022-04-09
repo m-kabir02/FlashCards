@@ -1,5 +1,26 @@
 # FlashCards
 
+# Lab 4 W/O Optionals
+
+# App Description
+A studying app that allows users to create flashcards and toggle between the question and answer. There are also selectable multiple choice buttons to help users study and improve memory. Now with additional animations to improve user experience.
+
+# App Walk-through
+<img src="https://i.imgur.com/vFbZ0WK.gif" width=200><br>
+
+# Required
+- [x] User should see the app icon 
+- [x] User should see a splash screen
+- [x] User should see an flip animation when revealing the answer
+- [x] User should see a slide animation when going to the next flashcard
+- [x] User should see a slide animation when going to the previous flashcard
+- [x] Push code to GitHub
+## Optional
+- [ ] User should see a nicer flaschard with rounded corners, shadows, and animating when showing the first time
+- [ ] User should see all views properly layout when using the app on a phone of different sizes
+- [ ] Correct answer in multiple choice should be random
+
+
 # Lab 3 With Deleting Flashcard Optional
 
 # App Description

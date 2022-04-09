@@ -6,7 +6,7 @@
 A studying app that allows users to create flashcards and toggle between the question and answer. There are also selectable multiple choice buttons to help users study and improve memory. Now with additional animations to improve user experience.
 
 # App Walk-through
-<img src="https://i.imgur.com/p1u7lMU.gif" width=200><br>
+<img src="https://i.imgur.com/5IlhSJx.gif" width=200><br>
 
 # Required
 - [x] User should see the app icon 

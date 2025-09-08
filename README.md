@@ -3,8 +3,6 @@ A studying app that allows users to create flashcards and toggle between the que
 
 # FlashCards
 
-# Lab 4 W/O Optionals
-
 # App Walk-through
 <img src="https://i.imgur.com/5IlhSJx.gif" width=200><br>
 
